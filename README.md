@@ -30,11 +30,12 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 
 **UserKei** es un **sistema web de gestión flexible diseñado para ayudar a empresas, negocios, organizaciones y sitios web a administrar sus procesos de manera eficiente** desarrollado con **PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, Chart.js, PHPMailer y FPDF**. Este proyecto demuestra mis habilidades en **desarrollo web Full Stack, operaciones CRUD, gestión de bases de datos, autenticación, diseño de interfaces, visualización de datos, generación de archivos PDF e integración de servicios de correo electrónico**. Puedes consultar el repositorio [aquí](project_2_repository_link).
 
-## Get in Touch 📬
+## Contacto 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/alex-yael-morales-carrillo-292b2b345)
+- **[Intagram]**(https://www.instagram.com/alexyaelm_?igsh=M216YXQ1MnF3Y3Vy)
+- **[TikTok]**(https://www.tiktok.com/@alekeii_4?_r=1&_t=ZS-98CErJqYalF)
+- **[YouTube]**(https://youtube.com/@alekeii953?si=SmB7EV3GaSUeXhR8)
 
 
   
