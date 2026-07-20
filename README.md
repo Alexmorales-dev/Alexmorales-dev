@@ -1,6 +1,6 @@
 # Hola Mundo, Soy Alex Morales! 👋
 
-![https://github.com/Alexmorales-dev](./banner github.png)
+![https://github.com/Alexmorales-dev](./bannergithub.png)
 
 ## About Me 🚀
 
