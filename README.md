@@ -22,8 +22,6 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Proyectos Destacados 💻
 
 ### [Portafolio Design](https://alexmorales-dev.github.io/Portafolio)
