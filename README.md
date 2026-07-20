@@ -18,9 +18,9 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 
 ## Proyectos Destacados 💻
 
-### [Portafolio Diseño](project_1_link)
+### [Portafolio Diseño](https://alexmorales-dev.github.io/Portafolio)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![https://alexmorales-dev.github.io/Portafolio](Portafolio_design.png)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
