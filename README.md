@@ -2,17 +2,11 @@
 
 ![https://github.com/Alexmorales-dev](./banner_github.png)
 
-## About Me 🚀
+## Sobre Mi 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Ingeniero en Tecnologías de la Información con especialización en desarrollo de Software Full Stack. Experiencia en el diseño y desarrollo de aplicaciones web, creando interfaces responsivas y centradas en la experiencia del usuario (UI/UX), así como en el manejo e integración de datos mediante operaciones CRUD. Destaco por mi capacidad de resolución de problemas, trabajo colaborativo y adaptación a nuevas tecnologías. Busco contribuir al desarrollo de soluciones de alto impacto, aportando calidad técnica, aprendizaje continuo y compromiso con los objetivos estratégicos de la organización.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
-
-## My Skills 🧠
+## Mis Herramientas 🧠
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -22,9 +16,9 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Proyectos Destacados 💻
 
-### [Project 1 Title](project_1_link)
+### [Portafolio Diseño](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
