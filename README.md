@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Morales! 👋
 
-![Banner Image](https://miro.medium.com/v2/resize:fit:1000/0*wv7TeAlj5oHfZFRa.png)
+![https://github.com/Alexmorales-dev](./mouredev_github_profile.png)
 
 ## About Me 🚀
 
