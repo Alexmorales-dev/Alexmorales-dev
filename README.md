@@ -18,11 +18,11 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 
 ## Proyectos Destacados 💻
 
-### [Portafolio Diseño](https://alexmorales-dev.github.io/Portafolio)
+### [Portafolio Design](https://alexmorales-dev.github.io/Portafolio)
 
 ![https://alexmorales-dev.github.io/Portafolio](Portafolio_design.png)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Portafolio Design]** es un Mi proyecto consiste en un **portafolio web responsivo** diseñado para mostrar mis habilidades en desarrollo y diseño web. En él presento proyectos, tecnologías y conocimientos mediante una interfaz moderna, atractiva y optimizada para distintos dispositivos. Además de demostrar la calidad de mi código, el sitio refleja buenas prácticas de diseño UI/UX, organización del contenido y adaptación a diferentes tamaños de pantalla. Utilizando tecnologias cómo ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black).
 
 ### [Project 2 Title](project_2_link)
 
