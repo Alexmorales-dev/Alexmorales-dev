@@ -13,6 +13,14 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![tython](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -32,10 +40,10 @@ Ingeniero en Tecnologías de la Información con especialización en desarrollo 
 
 ## Contacto 📬
 
-- **[LinkedIn]**(www.linkedin.com/in/alex-yael-morales-carrillo-292b2b345)
-- **[Intagram]**(https://www.instagram.com/alexyaelm_?igsh=M216YXQ1MnF3Y3Vy)
-- **[TikTok]**(https://www.tiktok.com/@alekeii_4?_r=1&_t=ZS-98CErJqYalF)
-- **[YouTube]**(https://youtube.com/@alekeii953?si=SmB7EV3GaSUeXhR8)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-yael-morales-carrillo-292b2b345)
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexyaelm_?igsh=M216YXQ1MnF3Y3Vy)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alekeii_4?_r=1&_t=ZS-98CErJqYalF)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alekeii953?si=SmB7EV3GaSUeXhR8)
 
 
   
